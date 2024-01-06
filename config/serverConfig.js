@@ -2,7 +2,7 @@
  * module dependencies for server configuration
  */
 const path = require("path");
-const databaseUrl = require("./credential").DBURL;
+const databaseUrl = require("./credentials").DBURL;
 
 /**
  * server configurations
